@@ -34,5 +34,3 @@
 陳奕嘉: 查資料 ，設計程式，報告，40%
 戴侑玲: 0%
 
-github page
-https://yangchendai.github.io/group18/
