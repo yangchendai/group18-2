@@ -27,24 +27,7 @@
 3. **網紅評論（Reviews）** - 收集來自youtuber和民眾的評論，並提供參考來源。
 4. **熱銷地點（Locations）** - 推薦各地熱點，並提供詳細的資訊。
 
-## 安裝與運行
 
-1. 克隆此專案到本地：
-
-   ```bash
-   (https://github.com/yangchendai/group18.git)
-   cd 最近紅什麼
-## 安裝：
-
-bash
-複製程式碼
-npm install
-啟動開發伺服器：
-
-bash
-複製程式碼
-npm start
-開啟瀏覽器並訪問 ht。
 
 ## 分工，貢獻度
 楊竣安: 查資料 ，設計程式，製作ppt，60%
